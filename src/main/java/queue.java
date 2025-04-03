@@ -1,3 +1,14 @@
+/* 3 de abril del 2025
+ queue.java
+ *  Clase que realiza un void en el que se hacen operaciones con una cola
+ * Se utiliza la herramienta java util
+ * Se crea una cola (Queue) de enteros (Integer)
+ * Se añaden elementos a la cola
+ * Se obtiene el elemento frontal de la cola
+ * Se elimina el elemento frontal de la cola
+ * Se verifica si la cola está vacía
+ * Se obtiene el tamaño de la cola
+ */
 import java.util.LinkedList;
 import java.util.Queue;
 

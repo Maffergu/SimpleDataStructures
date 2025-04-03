@@ -1,3 +1,15 @@
+/* 3 de abril de 2025
+ * stack.java
+ * Clase que realiza un void en el que se hacen operaciones con una pila
+ * Se utiliza la herramienta java util
+ * Se crea una pila (Stack) de enteros (Integer)
+ * Se añaden elementos a la pila
+ * Se obtiene el elemento superior de la pila
+ * Elimina el elemento superior de la pila
+ * Verufica si la pila está vacía
+ * Se obtiene el tamaño de la pila
+ */
+
 import java.util.Stack;
 
 public class stack {

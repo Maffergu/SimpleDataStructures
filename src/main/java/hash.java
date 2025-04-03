@@ -1,3 +1,17 @@
+/* 3 de abril del 2025
+
+hash.java
+ *  Clase que realiza un void en el que se hacen operaciones con un diccionario
+ *  Se utiliza la herramienta java util
+ *  Se crea un diccionario (HashMap) de cadenas (String) a enteros (Integer)
+ * Se añaden elementos al diccionario
+ * Se obtienen valores asociados a claves
+ * Se verifica si una clave existe en el diccionario
+ * Se elimina un elemento del diccionario
+ * Se obtiene el tamaño del diccionario
+ * Se itera sobre las claves, valores y entradas del diccionario
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 
